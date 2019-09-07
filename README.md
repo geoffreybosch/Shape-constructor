@@ -1,6 +1,8 @@
 # Shape Constructor ReadMe
 
 This is the what gets printed in terminal for this file. 
+
+
 Running the rectangle function.
 Running the shape function.
 Rectangle has finished compiling
